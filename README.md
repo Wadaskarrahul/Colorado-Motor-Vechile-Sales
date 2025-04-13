@@ -70,14 +70,14 @@ pip install feedparser newspaper3k
 - Errors (if any) are logged in news_scraper.log.
 ## Screenshots
 
-![App Screenshot](images/colorado motor sale 1.png)
+![It show sales data over period of time](images/Colorado_Motor_Sale_1.png)
 
 It show sales data over period of time 
 
-![App Screenshot](images/colorado motor sale 2.png)
+![It show sales data over period of Quarter](images/Colorado_Motor_Sale_2.png)
 
 It show sales data over period of Quarter
 
-![App Screenshot](images/colorado motor sale 3.png)
+![It show distrubution of country wise sale data](images/Colorado_Motor_Sale_3.png)
 
 It show distrubution of country wise sale data
