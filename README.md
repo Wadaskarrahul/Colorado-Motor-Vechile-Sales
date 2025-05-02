@@ -28,46 +28,6 @@ The notebook includes:
 - Track how seasonal trends affect vehicle purchases
 - Analysis growth or decline
 
-##  Samples Visualization
-
-## Features
-
-- Fetches news article metadata from BBC's RSS feed.
-- Uses newspaper3k to extract full article content.
-- Implements multi-threading to scrape multiple articles efficiently.
-- Saves extracted data in a structured JSON format.
-- Includes error handling and logging for better debugging.
-
-
-
-## Technologies Used
-
-- Python
-
-- feedparser (For RSS feed parsing)
-- newspaper3k (For web scraping full articles)
-- concurrent.futures (For multi-threading)
-- json (For storing scraped data)
-- logging (For error logging)
-
-## Installation
-
-### Prerequisites
-
-Ensure you have Python installed (Python 3.x recommended). Install dependencies using:
-
-
-```
-pip install feedparser newspaper3k
-```
-
-## Output
-
-- The script prints article details (title, author, date, content snippet).
-
-- Scraped data is saved to articles.json.
-
-- Errors (if any) are logged in news_scraper.log.
 ## Screenshots
 
 ![It show sales data over period of time](images/Colorado_Motor_Sale_1.png)
